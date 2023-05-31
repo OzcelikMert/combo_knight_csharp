@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComboKnight", "ComboKnight\ComboKnight.csproj", "{DBC839CA-0ED7-4BB7-AC04-DF0F9D17151B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ComboKnight Setup", "ComboKnight Setup\ComboKnight Setup.vdproj", "{BACA8DA8-2136-4222-9933-E0C7B6AC1532}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC839CA-0ED7-4BB7-AC04-DF0F9D17151B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC839CA-0ED7-4BB7-AC04-DF0F9D17151B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC839CA-0ED7-4BB7-AC04-DF0F9D17151B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC839CA-0ED7-4BB7-AC04-DF0F9D17151B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BACA8DA8-2136-4222-9933-E0C7B6AC1532}.Debug|Any CPU.ActiveCfg = Debug
+		{BACA8DA8-2136-4222-9933-E0C7B6AC1532}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA92F8AD-09EE-40A1-A3FD-E26B0ECCDC3C}
+	EndGlobalSection
+EndGlobal
